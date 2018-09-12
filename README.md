@@ -1,7 +1,7 @@
 <p align="center">
   <a href="http://www.halcameron.ca/2018/04/02/asonamakewin/" target="_blank" title="Order this print from Hal Cameron">
   <img src="http://www.halcameron.ca/wp-content/uploads/2018/04/Share-Your-Gift-NEW-Web.jpg">
-    Image by Hal Cameron, click to order prints
+    <br />Image by Hal Cameron, click to order prints
  </a>
 </p>
 
