@@ -53,7 +53,7 @@ ahkamêyimoh.
  * **Podcast** - [CFWE Conversational Cree](https://soundcloud.com/convocree) - a variety of conversations around
  learning cree and language revitalization, as well as plenty of spoken cree, with Reuben Quinn, Wayne Jackson
 
- * [Canadian Bible Society Plains Cree translations](http://www.biblesociety.ca/translation/cree-plains.html) - I want to be clear that I am active in decolonization, and I do not promote western religions in any way. However, as an extensive audio resource for nêhiyawêwin, I haven't found anything yet that has quite the quantity of audio in cree. I try to listen to about 2-3 hours a day of the language spoken, and this is one resource I have been using. Take it or leave it.
+ * [Canadian Bible Society Plains Cree translations](http://www.biblesociety.ca/translation/cree-plains.html) - I want to be clear that I am active in the decolonization process, and so I am not advocating for a colonial religion. However, as an extensive audio resource for nêhiyawêwin, I haven't found anything yet that has quite the quantity of audio in cree. I try to listen to about 2-3 hours a day of the language spoken, and this is one resource I have been using. Take it or leave it.
 
 ### Video
 I'm not going to list every video on the internet that has to do with cree. These one's are key and
