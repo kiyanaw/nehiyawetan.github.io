@@ -1,6 +1,7 @@
 ## Introduction
 This repository is a collection of resources I have found around "the internet" that relate to 
-the learning of the nêhiyaw language (favoring Y dialect).
+the learning of the nêhiyaw language (favoring Y dialect). I live in Edmonton, AB and so most of
+the resources here may be more localized to that region, but not all.
 
 ### Motivation
 There is no faster method for learning a new langauge than **full immersion**. However, in the case where this
