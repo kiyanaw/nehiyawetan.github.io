@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.halcameron.ca/2018/04/02/asonamakewin/" target="_blank" title="Order this pring from Hal Cameron">
-  <img width="460" height="300" src="http://www.halcameron.ca/wp-content/uploads/2018/04/Share-Your-Gift-NEW-Web.jpg">
+  <img src="http://www.halcameron.ca/wp-content/uploads/2018/04/Share-Your-Gift-NEW-Web.jpg">
  </a>
 </p>
 
