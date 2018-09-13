@@ -17,10 +17,20 @@ language learner to **surround herself with every resource available to create a
 environment**.
 
 **This repo represents my efforts to do so** and also my desire to share that effort with
-others interested in nêhiyaw language revitalization. The resources are out there, there's just
-now the work to be done.
+others interested in nêhiyaw language revitalization. I've also chosen a source-code sharing platform for
+several reasons:
 
-ahkamêyimoh.
+ * allow for collaboration of resources. Facebook, various web sites and other groups have built/provided
+   resources all over the place, and others have build websites trying to consolidate this information, but
+   such a constant effort I think must be collaborative, the internet is constantly changing, and so we
+   should all be able to add new links and such. Besise, have you ever tried to go back and find something on Facebook?
+ * ease of updating. This repository can be edited online with very little effort, and is hosted instantly,
+ * resources for learning marginalized languages should be free, open, and easily-accessible and so this effort shall be so as well.
+
+
+The resources are out there, there's just now the work to be done.
+
+ekosi pita. ahkamêyimoh.
 
 ## Tips for the beginner
 
@@ -45,6 +55,13 @@ ahkamêyimoh.
 [3]: https://www.facebook.com/groups/18414147673/
 
 ## Resources
+
+### Courses
+ * [mâci-nêhiyawêwin (Beginning Cree)](https://www.amazon.ca/Beginning-Cree-Solomon-Ratt/dp/0889774358) student handbook by Solomon Ratt -- incredibly packed full of info, worth every penny
+ * [Cree: Lanugage of the Plains](https://ourspace.uregina.ca/bitstream/handle/10294/8401/Cree%20Language%20of%20the%20Plains%20PDF.pdf?sequence=3&isAllowed=y) - PDF of the 2018 edition by Jean Okimâsis
+ * [Cree: Languate of the Plains Workbook](https://ourspace.uregina.ca/bitstream/handle/10294/8401/Cree%20Language%20of%20the%20Plains%20Workbook%20PDF.pdf?sequence=6&isAllowed=y) - PDF workbook to accompany Cree - Language of the Plains
+ * [Cree: Language of the Plains audio sessions](https://soundcloud.com/user-682953202/sets/cree-language-playlist-ii) - 20 audio sessions to accompany the Cree: Language of the Plains books (see Books)
+
 
 ### Audio
 
@@ -73,7 +90,8 @@ are worth starting with.
  * [Let's learn to speak Cree](https://www.youtube.com/watch?v=xTZPoG-sJnU) - Darren Okemaysim, conversational Cree, check the author's YouTube for lots more in the series
  * [Wohkohtowin: Cree Natural Law](https://www.youtube.com/watch?v=NTXMrn2BZB0) - Another great video, lots of spoken cree
  * [Centre for Race and Culture (Edmonton) video resources page](https://cfrac.com/nehiyaw-language-lessons/nehiyaw-language-video-resources/) - I'm not going to list these off, you can click for yourself...
- * [amiskwacis History Series](https://www.youtube.com/channel/UCpX39TGNOgZvrhTMOnrilIg/videos) - Videos from many elders and indigenous people from the Edmonton area
+ * [amiskwaciy History Series](https://www.youtube.com/channel/UCpX39TGNOgZvrhTMOnrilIg/videos) - Videos from many elders and indigenous people from the Edmonton area
+ * [Small Number Counts to 100](https://www.youtube.com/watch?v=kthi--SH2Nk) - Beautifull animated story about Small Number 
 
 
 ### Songs
@@ -84,13 +102,13 @@ Again, I'm not going to list off the internet here...
  * [Waniska - The Morning Song](https://www.youtube.com/watch?v=QQZAgSpB5T4) - I was given permission to share this, it's beautiful
 
 ### Books
-
- * [mâci-nêhiyawêwin (Beginning Cree)](https://www.amazon.ca/Beginning-Cree-Solomon-Ratt/dp/0889774358) student handbook by Solomon Ratt -- incredibly packed full of info, worth every penny
  * [100 Days of Cree](https://uofrpress.ca/Books/9/100-Days-of-Cree) another fantastic book. I told someone
  on the phone "this book is more like 1,000 days of cree" there's so much content
  * [Saskatchewan Indian Culture Centre Catalogue](http://www.sicc.sk.ca/fckimages/file/LearningOutlet/SICCProductPriceList%20-%202010.pdf) - an awesome amount of print material for those wanting posters, story books, audio, etc. available in several dialects of Cree, Sioux, Dene, and Saulteaux (nakawe)
 
 ### PDFs
+ * [Cree: Language of the Plains](file:///Users/aaronfay/Downloads/Cree%20Language%20of%20the%20Plains%20PDF.pdf) - Jean Okimâsis - recently revised 2018 edition from University of Regina Press as an open book, [workbook]() and [audio]() also available as open material
+ * [Cree: Language of the Plains Workbook]()
  * [Plains Cree Conversation Manual](http://atlas-ling.ca/pdf/Beardys-Plains%20CreeConversation.pdf) - Robert Eyahpaise
  * [Plains Cree Conversation Manual](http://atlas-ling.ca/pdf/CONVERSATION_White_Bear_Plains_Cree.pdf) - White Bear
  * [Ontario Native Languages Language Patterns](http://www.npsc.ca/media/5715/native%20language%20curriculum%20grades%201%20-%2012.pdf) - teacher's aid
@@ -104,8 +122,8 @@ Again, I'm not going to list off the internet here...
 
 
 ### Other resources
- * [Online Cree Dictionary](http://www.creedictionary.com/) - Online Cree Dictionary
- * [Plains Cree Dictionary](https://dictionary.plainscree.atlas-ling.ca/#/browse) - Algonquian Dictionaries Project
+ * [Online Cree Dictionary](http://www.creedictionary.com/) - Online Cree Dictionary, a combination of the maskwacis dictionary, Alberta Elder's Cree dictionary, and Arok Wolvengrey's dictionary, I use this every day also.
+ * [Plains Cree Dictionary](https://dictionary.plainscree.atlas-ling.ca/#/browse) - Algonquian Dictionaries Project, very cool resource
  * [Cree Language Map](https://www.google.com/maps/d/u/0/viewer?ll=54.953130162855594%2C-105.19868719375&z=6&mid=1KQcuBlf6nALH6J1MC_DI0q-sG7A) - Google map of where languages are spoken in Canada
  * [alglang.net](http://alglang.net/) - Database of Angonquian Language Structures
  * [The Plains Cree Texts](https://archive.org/details/rosettaproject_crk_vertxt-2) - Online version
