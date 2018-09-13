@@ -61,7 +61,7 @@ ekosi pita. ahkamêyimoh.
  * [Cree: Lanugage of the Plains](https://ourspace.uregina.ca/bitstream/handle/10294/8401/Cree%20Language%20of%20the%20Plains%20PDF.pdf?sequence=3&isAllowed=y) - PDF of the 2018 edition by Jean Okimâsis
  * [Cree: Languate of the Plains Workbook](https://ourspace.uregina.ca/bitstream/handle/10294/8401/Cree%20Language%20of%20the%20Plains%20Workbook%20PDF.pdf?sequence=6&isAllowed=y) - PDF workbook to accompany Cree - Language of the Plains
  * [Cree: Language of the Plains audio sessions](https://soundcloud.com/user-682953202/sets/cree-language-playlist-ii) - 20 audio sessions to accompany the Cree: Language of the Plains books (see Books)
- * [SICC Intensive Language Course in Cree](/resources/SICC-ProductPriceList.pdf) - Language Course and CDs available from Saskatchewan Indian Cultural Centre, on page 7 under Plains Cree (Y) Material
+ * [SICC Intensive Language Course in Cree](/resources/SICC-ProductPriceList.pdf) - Language Course and CDs available from Saskatchewan Indian Cultural Centre, on page 7 under Plains Cree (Y) Material. You'll need to call SICC to order.
 
 
 ### Audio
@@ -108,21 +108,29 @@ Again, I'm not going to list off the internet here...
  * [Saskatchewan Indian Culture Centre Catalogue](http://www.sicc.sk.ca/fckimages/file/LearningOutlet/SICCProductPriceList%20-%202010.pdf) - an awesome amount of print material for those wanting posters, story books, audio, etc. available in several dialects of Cree, Sioux, Dene, and Saulteaux (nakawe)
 
 ### PDFs
- * [Cree: Language of the Plains](file:///Users/aaronfay/Downloads/Cree%20Language%20of%20the%20Plains%20PDF.pdf) - Jean Okimâsis - recently revised 2018 edition from University of Regina Press as an open book, [workbook]() and [audio]() also available as open material
- * [Cree: Language of the Plains Workbook]()
+
+ * [How to say it in Cree](/resources/how-to-say-it-in-cree.pdf) - a great place to start with some phrases and concepts from Solomon Ratt
+ * [How to spell it in Cree](http://resources.atlas-ling.ca/media/How_To_Spell_It_In_Cree-Standard_Orthography-Plains-Cree.pdf) - If you haven't read this yet, you should, covers basically "what is SRO" and why you should know it, from Solomon Ratt
  * [Plains Cree Conversation Manual](http://atlas-ling.ca/pdf/Beardys-Plains%20CreeConversation.pdf) - Robert Eyahpaise
  * [Plains Cree Conversation Manual](http://atlas-ling.ca/pdf/CONVERSATION_White_Bear_Plains_Cree.pdf) - White Bear
- * [Ontario Native Languages Language Patterns](http://www.npsc.ca/media/5715/native%20language%20curriculum%20grades%201%20-%2012.pdf) - teacher's aid
- for cree and ojibwe languages
+ * [Ontario Native Languages Language Patterns](http://www.npsc.ca/media/5715/native%20language%20curriculum%20grades%201%20-%2012.pdf) - teacher's aid for cree and ojibwe languages
+ * [A Cree View of Education (Solomon Ratt)](/resources/a-cree-view-of-education.pdf) - a PDF I found on the internet somewhere
+ * [A Dictionary of the Cree Language (1938)](/resources/a-dictionary-of-the-cree-language.pdf) - I have a print version of this, has it's own system of pronunciation, but still a cool resource
+ * [Learning from the Computational Modelling of Plains Cree Verbs](/resources/cree-morphologhy-verbs.pdf) - I don't know who wrote this, a paper on attempting to model some of the language, largely acedemic
+ * [Beginning Cree PDF version (2013)](/resources/cree-text-2013-edition.pdf) - a good free PDF of the mâci-nêhiyawêwin workbook by Solomon Ratt if you can't affort a print copy, distributed with permission. This version is pre-press, so some of the later chapters aren't fully complete
+ * [The Plains Cree Texts](/resources/plains-cree-texts-bloomfield.pdf) - Leonard Bloomfield recorded a bunch of stories back in the 30s, these are the basis of a lot of scholars' work today
+
  
 ### Apps
  * [itwêwina](http://altlab.ualberta.ca/itwewina/) - Smart dictionary being developed at the UofA
  * [Cree Verb Conjugation App](https://nistosap.wordpress.com/) (Apple only) - I use this every day, [source code available here](https://github.com/nehiyawetan)
  * [Online Cree Dictionary - iPhone](http://itunes.apple.com/us/app/creedictionary/id381010402?mt=8)
  * [Online Cree Dictionary - Android](https://play.google.com/store/apps/details?id=ca.Intellimedia.CreeDictionary)
+ * [maskwacis Cree app](https://itunes.apple.com/ca/app/maskwacis-cree/id804404251?mt=8) - great app with a lot of common phrases including pronunciation
 
 
 ### Other resources
+ * [Cree Literacy Network](http://creeliteracy.org/) - has quite a few resources, pretty actively updated
  * [Online Cree Dictionary](http://www.creedictionary.com/) - Online Cree Dictionary, a combination of the maskwacis dictionary, Alberta Elder's Cree dictionary, and Arok Wolvengrey's dictionary, I use this every day also.
  * [Plains Cree Dictionary](https://dictionary.plainscree.atlas-ling.ca/#/browse) - Algonquian Dictionaries Project, very cool resource
  * [Cree Language Map](https://www.google.com/maps/d/u/0/viewer?ll=54.953130162855594%2C-105.19868719375&z=6&mid=1KQcuBlf6nALH6J1MC_DI0q-sG7A) - Google map of where languages are spoken in Canada
