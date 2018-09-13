@@ -135,6 +135,4 @@ Again, I'm not going to list off the internet here...
  * [Plains Cree Dictionary](https://dictionary.plainscree.atlas-ling.ca/#/browse) - Algonquian Dictionaries Project, very cool resource
  * [Cree Language Map](https://www.google.com/maps/d/u/0/viewer?ll=54.953130162855594%2C-105.19868719375&z=6&mid=1KQcuBlf6nALH6J1MC_DI0q-sG7A) - Google map of where languages are spoken in Canada
  * [alglang.net](http://alglang.net/) - Database of Angonquian Language Structures
- * [The Plains Cree Texts](https://archive.org/details/rosettaproject_crk_vertxt-2) - Online version
- * [A Dictionary of the Cree Language (1934)](https://archive.org/details/adictionarycree00watkgoog) - Online version
  * [bibles.org cree translations](https://bibles.org/crk-PCSBR/Mark/1) - while I do no subscribe to the western world view or promote their religions, I have found some value in being able to compare the translations in their religious books
