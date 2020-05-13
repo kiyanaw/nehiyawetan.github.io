@@ -60,7 +60,7 @@ ekosi pita. ahkamêyimoh.
  * [mâci-nêhiyawêwin (Beginning Cree)](https://www.amazon.ca/Beginning-Cree-Solomon-Ratt/dp/0889774358) student handbook by Solomon Ratt -- incredibly packed full of info, worth every penny
  * [Cree: Lanugage of the Plains](https://ourspace.uregina.ca/bitstream/handle/10294/8401/Cree%20Language%20of%20the%20Plains%20PDF.pdf?sequence=3&isAllowed=y) - PDF of the 2018 edition by Jean Okimâsis
  * [Cree: Languate of the Plains Workbook](https://ourspace.uregina.ca/bitstream/handle/10294/8401/Cree%20Language%20of%20the%20Plains%20Workbook%20PDF.pdf?sequence=6&isAllowed=y) - PDF workbook to accompany Cree - Language of the Plains
- * [Cree: Language of the Plains audio sessions](https://soundcloud.com/user-682953202/sets/cree-language-playlist-ii) - 20 audio sessions to accompany the Cree: Language of the Plains books (see Books)
+ * [Cree: Language of the Plains audio sessions](https://soundcloud.com/user-632843730/sets/cree-language-of-the-plains) - 20 audio sessions to accompany the Cree: Language of the Plains books (see Books)
  * [SICC Intensive Language Course in Cree](/resources/SICC-ProductPriceList.pdf) - Language Course and CDs available from Saskatchewan Indian Cultural Centre, on page 7 under Plains Cree (Y) Material. You'll need to call SICC to order.
 
 
