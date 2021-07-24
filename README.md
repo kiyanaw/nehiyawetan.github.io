@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="http://www.halcameron.ca/2018/04/02/asonamakewin/" target="_blank" title="Order this print from Hal Cameron">
-  <img src="http://www.halcameron.ca/wp-content/uploads/2018/04/Share-Your-Gift-NEW-Web.jpg">
-    <br />Image by Hal Cameron, click to order prints
- </a>
+  <img src="https://scontent.fyka1-1.fna.fbcdn.net/v/t1.6435-9/49213211_10155754643031822_2391740817535401984_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=e3f864&_nc_ohc=xjNz9sB_iyMAX_ComN7&_nc_ht=scontent.fyka1-1.fna&oh=4a986197585f0d60c8b04b87dcda7f81&oe=611FDE25">
+    <br />Image by Hal Cameron
 </p>
 
 ## Introduction
