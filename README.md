@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://scontent.fyka1-1.fna.fbcdn.net/v/t1.6435-9/49213211_10155754643031822_2391740817535401984_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=e3f864&_nc_ohc=xjNz9sB_iyMAX_ComN7&_nc_ht=scontent.fyka1-1.fna&oh=4a986197585f0d60c8b04b87dcda7f81&oe=611FDE25">
-    <br />Image by Hal Cameron
+    <br />âsonamâkêwin "passing it on" by Hal Cameron
 </p>
 
 ## Introduction
