@@ -76,7 +76,6 @@ ekosi pita. ahkamêyimoh.
  * **Podcast** - [CFWE Conversational Cree](https://soundcloud.com/convocree) - a variety of conversations around
  learning cree and language revitalization, as well as plenty of spoken cree, with Reuben Quinn, Wayne Jackson
 
- * [Canadian Bible Society Plains Cree translations](http://www.biblesociety.ca/translation/cree-plains.html) - I want to be clear that I am active in the decolonization process, and so I am not advocating for a colonial religion. However, as an extensive audio resource for nêhiyawêwin, I haven't found anything yet that has quite the quantity of audio in cree. I try to listen to about 2-3 hours a day of the language spoken, and this is one resource I have been using. Take it or leave it.
 
 ### Video
 I'm not going to list every video on the internet that has to do with cree. These one's are key and
@@ -133,4 +132,3 @@ Again, I'm not going to list off the internet here...
  * [Plains Cree Dictionary](https://dictionary.plainscree.atlas-ling.ca/#/browse) - Algonquian Dictionaries Project, very cool resource
  * [Cree Language Map](https://www.google.com/maps/d/u/0/viewer?ll=54.953130162855594%2C-105.19868719375&z=6&mid=1KQcuBlf6nALH6J1MC_DI0q-sG7A) - Google map of where languages are spoken in Canada
  * [alglang.net](http://alglang.net/) - Database of Angonquian Language Structures
- * [bibles.org cree translations](https://bibles.org/crk-PCSBR/Mark/1) - while I do no subscribe to the western world view or promote their religions, I have found some value in being able to compare the translations in their religious books
