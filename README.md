@@ -11,7 +11,7 @@ the resources here may be more localized to that region, but not all.
 ### Motivation
 There is no faster method for learning a new langauge than **full immersion**. However, in the case where this
 is not an option (such as minimal-or-no access to fluent speakers) then it is the responsibility of the
-language learner to **surround herself with every resource available to create an immersive
+language learner to **surround themselves with every resource available to create an immersive
 environment**.
 
 **This repo represents my efforts to do so** and also my desire to share that effort with
